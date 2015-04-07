@@ -1,0 +1,29 @@
+Command Line Power User:
+
+A video series on improving your command line workflow with ZSH, Z and related tools.
+
+
+https://www.youtube.com/watch?v=rl7PzPAZDyY // Introduction
+
+https://www.youtube.com/watch?v=DP218aBHm1Q // Command Line Basics
+
+https://www.youtube.com/watch?v=jnLA6yAZkaY // Installing iTerm or Cygwin
+
+https://www.youtube.com/watch?v=IVgo5msaTlo // Installing ZSH + Oh-My-ZSH
+
+https://www.youtube.com/watch?v=0P9FWbhopTQ // Custom Terminal Colors
+
+https://www.youtube.com/watch?v=XSeO6nnlWHw // Custom ZSH Themes + Prompts
+
+https://www.youtube.com/watch?v=4q3eO17eEK4 // Discovering ZSH Features
+
+https://www.youtube.com/watch?v=s_h3NrrtETA // Advanced History with ZSH
+
+https://www.youtube.com/watch?v=JsLHUSlwJBA // Getting the Most out of ZSH with Plugins
+
+https://www.youtube.com/watch?v=qbNn5zJLZU0 // Using 'z' to Jump to Frecent Folders
+
+https://www.youtube.com/watch?v=dPYm0tb25O4 // Deletion of Files/Folders with Trash
+
+
+
